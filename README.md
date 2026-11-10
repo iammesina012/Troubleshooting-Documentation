@@ -1,4 +1,4 @@
-# Troubleshooting Case Studies
+# Troubleshooting Documentation
 
 I created this repository to document my troubleshooting experiences I've had while working on my own computer. I wanted to show my troubleshooting process, the tools I used, and the solutions I tried.
 
